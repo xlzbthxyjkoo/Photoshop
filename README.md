@@ -107,9 +107,19 @@ opencv를 이용한 포토샵 프로그램
 
 
   * 잡티 제거
+      * 가리고 싶은 잡티의 바로 왼쪽 부분을 선택해주어야 함
+      * 선택한 영역을 오른쪽으로 붙여넣기 때문!   
 
 <img width="40%" src="https://user-images.githubusercontent.com/82144134/209697352-fb346acf-9a50-4f92-acac-f92e68cdaf27.png"/><img width="40%" src="https://user-images.githubusercontent.com/82144134/209697367-5ad54f18-3be3-45dd-b150-9b262e0986f0.png"/>
 
   * 잡티 연하게(뽀샤시)
+      * 얼굴 영역 전체를 선택하면 뽀샤시 기능으로 활용 가능
+      * 연한 잡티가 있을 때 연한 잡티 부분을 선택해 적용해주면 잡티 연하게 기능으로 활용 가능  
+
+<img width="30%" src="https://user-images.githubusercontent.com/82144134/209697854-4ad7282f-2c5c-4231-8159-d3a397008d92.png"/>
+<img width="50%" src="https://user-images.githubusercontent.com/82144134/209697888-30c9ff8e-050e-40ac-924b-099754d07d53.png"/>
+
+
   * 액자 추가
 
+<img width="40%" src="https://user-images.githubusercontent.com/82144134/209698276-f83c7a1c-42b9-4fde-bd5e-6fbeb43ca562.png"/><img width="40%" src="https://user-images.githubusercontent.com/82144134/209698308-e485054d-5aa8-42a3-bc52-4c63fb7b57f1.png"/>
