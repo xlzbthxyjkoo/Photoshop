@@ -10,9 +10,11 @@ opencv를 이용한 포토샵 프로그램
 <img width="60%" src="https://user-images.githubusercontent.com/82144134/209690780-32800bf8-b036-4e38-b26f-3877b64e2cb2.png"/> <img width="60%" src="https://user-images.githubusercontent.com/82144134/209690789-83367795-c687-4a1f-8533-ec7b2e251314.png"/>  
     
   * 편집화면
-<img width="100%" src="https://user-images.githubusercontent.com/82144134/209690817-a9e4ba40-7227-48f0-ab56-ac32ba9bf443.png"/>
+<img width="90%" src="https://user-images.githubusercontent.com/82144134/209690817-a9e4ba40-7227-48f0-ab56-ac32ba9bf443.png"/>
 
   * 사진 불러오기
+<img width="90%" src="https://user-images.githubusercontent.com/82144134/209691336-547fac16-e514-4e52-862a-d176ecf79fa0.png"/>
+
   * 홈으로 돌아가기
   * 편집 사진 화면에 보이기
   * 사진 자르기
