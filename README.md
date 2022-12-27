@@ -1,10 +1,10 @@
 # Photoshop
 opencv를 이용한 포토샵 프로그램
 
-* 기본 기능
-  * 메인화면
-<img width="30%" src="https://user-images.githubusercontent.com/82144134/209689874-3a3d7771-8e12-4acf-bab4-fd3f28f31a44.png"/>
+* 메인화면
+<img width="40%" src="https://user-images.githubusercontent.com/82144134/209689874-3a3d7771-8e12-4acf-bab4-fd3f28f31a44.png"/>
 
+* 기본 기능
   * 카메라 기능
   * 편집화면
 
